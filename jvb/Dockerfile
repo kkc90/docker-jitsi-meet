@@ -1,5 +1,5 @@
 ARG JITSI_REPO=jitsi
-ARG BASE_TAG=latest
+ARG BASE_TAG=stable-7648-4
 FROM ${JITSI_REPO}/base:${BASE_TAG}
 
 ###################
